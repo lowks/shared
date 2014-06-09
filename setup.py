@@ -16,6 +16,7 @@ kwargs = dict(
     version="0.0.2",
     license='mit',
     name="shared",
+    description="Another library extension inspired by Clojure",
     author='nathan todd-stone',
     author_email='me@nathants.com',
     url='http://github.com/nathants/shared',
